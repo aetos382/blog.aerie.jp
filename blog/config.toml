@@ -1,12 +1,12 @@
-baseURL = "https://test-blog.aerie.jp"
+baseURL = "https://blog.aerie.jp"
 languageCode = "ja-JP"
-title = "Test Blog"
+title = "🦅"
 theme = "github-style"
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
 hasCJKLanguage = true
-googleAnalytics = "G-XQBJVEQBMP"
+googleAnalytics = "G-90KGHGDM6B"
 
 [params]
   author = "aetos"
