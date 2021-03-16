@@ -1,6 +1,6 @@
 baseURL = "https://blog.aerie.jp"
 languageCode = "ja-JP"
-title = "🦅"
+title = "eagle's nest"
 theme = "github-style"
 enableEmoji = true
 enableGitInfo = true
