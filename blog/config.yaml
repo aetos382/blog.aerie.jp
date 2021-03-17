@@ -1,0 +1,19 @@
+baseURL: https://blog.aerie.jp
+languageCode: ja-JP
+title: eagle's nest
+theme: github-style
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+hasCJKLanguage: true
+googleAnalytics: G-90KGHGDM6B
+pygmentsCodeFences: false
+pygmentsUseClasses: false
+
+params:
+  author: aetos
+  github: aetos382
+  twitter: aetos382
+  rss: true
+  lastmod: true
+  location: Saitama-shi, Saitama-ken, Japan
