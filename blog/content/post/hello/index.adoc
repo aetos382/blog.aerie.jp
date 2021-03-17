@@ -3,9 +3,7 @@ title: "Hello"
 date: 2021-03-16T20:46:49+09:00
 draft: false
 ---
-
-= テスト
-:source-highlighter: rogue
+:source-highlighter: pygment
 
 == テスト投稿記事
 やっほー!!!
@@ -31,7 +29,7 @@ image::computer_tokui_boy.png[コンピューターを使いこなす子供の�
 |===
 
 == コード
-[source,csharp]
+[source,csharp,linenums]
 .Hello.cs
 ----
 using System;
