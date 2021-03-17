@@ -5,6 +5,7 @@ draft: false
 ---
 
 = テスト
+:source-highlighter: rogue
 
 == テスト投稿記事
 やっほー!!!
@@ -14,10 +15,11 @@ image::computer_tokui_boy.png[コンピューターを使いこなす子供の�
 
 == テーブル
 .何かの表
-[cols="2*"]
+[options="header", cols="3*"]
 |===
 |列1
 |列2
+|列3
 
 |セル11
 |セル12
@@ -27,3 +29,21 @@ image::computer_tokui_boy.png[コンピューターを使いこなす子供の�
 |セル22
 |セル23
 |===
+
+== コード
+[source,csharp]
+.Hello.cs
+----
+using System;
+
+namespace Hello
+{
+    static class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Hello, World.");
+        }
+    }
+}
+----
