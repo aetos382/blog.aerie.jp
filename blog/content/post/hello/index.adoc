@@ -3,7 +3,7 @@ title: "Hello"
 date: 2021-03-16T20:46:49+09:00
 draft: false
 ---
-:source-highlighter: pygment
+:source-highlighter: rouge
 
 == テスト投稿記事
 やっほー!!!

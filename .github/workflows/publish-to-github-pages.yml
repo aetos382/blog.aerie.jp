@@ -23,7 +23,7 @@ jobs:
           key: ${{ runner.os }}-hugo
 
       - name: Build pages
-        uses: docker://klakegg/hugo:0.81.0-ext-ubuntu
+        uses: docker://klakegg/hugo:0.82.0-ext-ubuntu
         with:
           args: --source blog
         env:
